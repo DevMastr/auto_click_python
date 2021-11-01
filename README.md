@@ -1,2 +1,2 @@
 # auto_click_python
-"P" para iniciar, "S" para parar.
+"P" to play, "S" to stop.
